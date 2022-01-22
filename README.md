@@ -19,7 +19,7 @@ hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer w
   I am currently expanding my knowledge by passionately reading and taking courses in cybersecurity & pentesting techniques, artificial intelligence & machine learning, blockchain and internet of things. 
   
   Skills: 
- - Languages: Ruby & Ruby on Rails, Python, Javascript & Node, C, Bash
+ - Languages: Ruby & Ruby on Rails, Typescript, Javascript, Node, Python, C, Bash
  - Linux & BSD configuration & administration: Debian, OpenBSD, Arch 
  - Networking: Common network and application protocols
  - Security: Development practices, Pentesting, CTFs
