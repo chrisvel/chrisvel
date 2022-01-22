@@ -26,3 +26,6 @@ hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer w
  - Testing: Experience in creating and executing test plans (Minitest) 
  - Architecture design, Agile management (JIRA), Problem solving, Knowledge base building (Confluence)
  - Also: Microservices, Kafka, ElasticSearch
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=chrisvel&amp;show_icons=true" alt="GitHub Stats"></p>
