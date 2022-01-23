@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer with 13 years of experience in Computer Science, Engineering, Security and Networking. 
+hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer with 13+ years of experience in Computer Science, Engineering, Security and Networking. 
   
   In the past, I have worked as a Senior Software Engineer, Lead Security Software Developer, a Senior Service Delivery Analyst and a Freelance Programmer, so I deeply understand the business's complex necessities by possessing strong analytical and troubleshooting skills.
   
@@ -23,7 +23,7 @@ hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer w
  - Linux & BSD configuration & administration: Debian, OpenBSD, Arch 
  - Networking: Common network and application protocols
  - Security: Development practices, Pentesting, CTFs
- - Testing: Experience in creating and executing test plans (Minitest) 
+ - Testing: Experience in creating and executing test plans (Minitest, Jest) 
  - Architecture design, Agile management (JIRA), Problem solving, Knowledge base building (Confluence)
  - Also: Microservices, Kafka, ElasticSearch
 
