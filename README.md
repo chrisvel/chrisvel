@@ -6,7 +6,7 @@
   <img align="left" alt="Chris Veleris' LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 
-<br />
+<br /><br />
 
 hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer with 13+ years of experience in Computer Science, Engineering, Security and Networking. 
   
