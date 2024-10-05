@@ -8,7 +8,7 @@
 
 <br /><br />
 
-hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer with 13+ years of experience in Computer Science, Engineering, Security and Networking. 
+hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer with ~14 years of experience in Computer Science, Engineering, Security and Networking. 
   
   In the past, I have worked as a Senior Software Engineer, Lead Security Software Developer, a Senior Service Delivery Analyst and a Freelance Programmer, so I deeply understand the business's complex necessities by possessing strong analytical and troubleshooting skills.
   
@@ -17,7 +17,7 @@ hi, i'm [Chris Veleris](https://chrisveleris.com/), a Senior Software Engineer w
   I am currently expanding my knowledge by passionately reading and taking courses in cybersecurity & pentesting techniques, artificial intelligence & machine learning, blockchain and internet of things. 
   
   Skills: 
- - Languages: Ruby & Ruby on Rails, Typescript, Javascript, Node, Python, C, Bash
+ - Languages: Ruby & Ruby on Rails, Typescript, Javascript, Node, Python, C, Bash, Go (very recently)
  - Linux & BSD configuration & administration: Debian, OpenBSD, Arch 
  - Networking: Common network and application protocols
  - Security: Development practices, Pentesting, CTFs
